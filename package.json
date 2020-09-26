@@ -1,0 +1,23 @@
+{
+  "name": "machine-learning-applications",
+  "version": "1.0.0",
+  "description": "This is a machine learning application for learning purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajnish-24-7-365/machine-learning-applications.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajnish-24-7-365/machine-learning-applications/issues"
+  },
+  "homepage": "https://github.com/rajnish-24-7-365/machine-learning-applications#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.4.0",
+    "@tensorflow/tfjs-node": "^2.4.0"
+  }
+}
