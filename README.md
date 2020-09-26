@@ -1,2 +1,2 @@
 # machine-learning-applications
-This is machine learning applications for personal learning purposes
+This is a machine learning application for learning purposes.
